@@ -1,0 +1,211 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 08 Mar 2022 23:34:32 at https://realnews7.xyz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://realnews7.xyz/ -O1 "C:\My Web Sites\mo2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:35:13	Error: 	"Error when decompressing" (-1) at link https://realnews7.xyz/2022/03/08/king-kong-full-movie-hollywood-full-movie-2022-full-movies-in-english-𝐅𝐮𝐥𝐥-𝐇𝐃-1080-2/ (from https://realnews7.xyz/)
+23:35:45	Error: 	"Error when decompressing" (-1) at link https://realnews7.xyz/2022/03/08/dragon-hunter-டிராகன்-ஹண்டர்-hollywood-movie-dubbed-in-tamil-tamil-movies/ (from https://realnews7.xyz/)
+23:36:02	Error: 	"Error when decompressing" (-1) at link https://realnews7.xyz/2022/03/08/king-kong-full-movie-hollywood-full-movie-2022-full-movies-in-english-𝐅𝐮𝐥𝐥-𝐇𝐃-1080/ (from https://realnews7.xyz/)
+23:36:38	Warning: 	Moved Permanently for https://realnews7.xyz/?p=2
+23:36:38	Warning: 	File has moved from https://realnews7.xyz/?p=2 to https://realnews7.xyz/sample-page/
+23:36:38	Error: 	"Method Not Allowed" (405) at link https://realnews7.xyz/xmlrpc.php (from https://realnews7.xyz/sample-page/)
+23:36:38	Warning: 	Found for https://realnews7.xyz/wp-admin/
+23:36:38	Warning: 	File has moved from https://realnews7.xyz/wp-admin/ to https://realnews7.xyz/wp-login.php?redirect_to=https%3A%2F%2Frealnews7.xyz%2Fwp-admin%2F&reauth=1
+23:36:38	Warning: 	Moved Permanently for https://realnews7.xyz/?p=458
+23:36:38	Warning: 	File has moved from https://realnews7.xyz/?p=458 to https://realnews7.xyz/2022/03/08/best-action-movies-2022-full-movie-english-hollywood-new-action-movies-2022-full-length-hd/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=455
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=455 to https://realnews7.xyz/2022/03/08/best-action-movies-2022-hollywood-action-movie-2022-full-length-english-hd-5/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=451
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=451 to https://realnews7.xyz/2022/03/08/new-hollywood-movies-hindi-dubbed-2022-robotic-war-action-movie/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=444
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=444 to https://realnews7.xyz/2022/03/08/best-upcoming-movies-2021-2022-trailers/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=440
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=440 to https://realnews7.xyz/2022/03/08/2022-full-movie/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=436
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=436 to https://realnews7.xyz/2022/03/08/best-upcoming-movies-2022-trailers/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=432
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=432 to https://realnews7.xyz/2022/03/08/best-action-movies-2022-hollywood-action-movie-2022-full-length-english-hd-4/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=428
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=428 to https://realnews7.xyz/2022/03/08/dawn-of-the-dead-best-action-movies-2022-hollywood-hd-action-movie-2022-full-length-english/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=424
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=424 to https://realnews7.xyz/2022/03/08/apex-new-hollywood-movie-in-hindi-dubbed-full-action-hd-2022/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=420
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=420 to https://realnews7.xyz/2022/03/08/best-action-movies-2022-hollywood-hd-action-movie-2022-full-length-english/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=409
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=409 to https://realnews7.xyz/2022/03/08/full-sexy-movie-hollywood-movie-tamil/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=402
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=402 to https://realnews7.xyz/2022/03/08/headed-shark-attack-2019-full-sexy-movie-hollywood-movie-tamil/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=398
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=398 to https://realnews7.xyz/2022/03/08/new-hollywood-hot-movies-2018-hindi-dubbed-full-action-adventure-movies/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=394
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=394 to https://realnews7.xyz/2022/03/08/kingdom-lady-lets-war-begin-hollywood-war-movie-in-english-jason-statham-best-movies/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=391
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=391 to https://realnews7.xyz/2022/03/08/vidyut-jammwal-jacqueline-fernandez-shahid-kapoor-newbollywood-movies-2022-full-hd-4k-2/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=387
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=387 to https://realnews7.xyz/2022/03/08/hot-sexy-hollywood-movie-in-english-2020-latest-romantic-movie-2020/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=383
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=383 to https://realnews7.xyz/2022/03/08/dog-life-movie-explanation-in-hindi-movie-explained-in-hindi-movie-explanation-in-hindi/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=379
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=379 to https://realnews7.xyz/2022/03/08/hollywood/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=375
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=375 to https://realnews7.xyz/2022/03/08/hollywood-movie-hindi-dubbed-hollywood-action-romantic-movie-in-hindi-dubbed-2022-2/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=371
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=371 to https://realnews7.xyz/2022/03/08/hollywood-movie-full-hindi-dubbed-2021-dino-wars-hollywood-action-movies-in-hindi-dubbed-2021/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=363
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=363 to https://realnews7.xyz/2022/03/08/hot-romantic-movie-of-all-time-age-restricted-hot-movie-english-horror-thriller-virgin-witch/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=359
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=359 to https://realnews7.xyz/2022/03/08/killer-again-blockbuster-hit-hollywood-movie-in-hindi-hindi-dubbed-action-movie-2020-full-hd/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=355
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=355 to https://realnews7.xyz/2022/03/08/bloody-train-ll-hollywood-adventure-thriller-movie-dubbed-in-hindi-ll-panipat-movies/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=351
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=351 to https://realnews7.xyz/2022/03/08/mega-shark-vs-kolossus-hollywood-movie-hindi-dubbed-hollywood-action-movies-in-hindi-dubbed-full/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=343
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=343 to https://realnews7.xyz/2022/03/08/hollywood-movie-full-hindi-dubbed-sword-master-hollywood-action-movies-in-hindi-dubbed-full-film/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=339
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=339 to https://realnews7.xyz/2022/03/08/best-action-movies-2022-hollywood-action-movie-2022-full-length-english-hd-3/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=335
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=335 to https://realnews7.xyz/2022/03/08/end-of-the-world-hindi-dubbed-movie-hollywood-movie-hollywood-movie-in-hindi/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=331
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=331 to https://realnews7.xyz/2022/03/08/dwarf-of-power-full-action-movie-in-hindi-dub-hollywood-dubbed-movies/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=326
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=326 to https://realnews7.xyz/2022/03/08/daysaster-ll-hollywood-sci-fi-adventure-movies-in-hindi-dubbed-full-movie/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=322
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=322 to https://realnews7.xyz/2022/03/08/release-hollywood-movie-latest-hollywood-in-hindi-dubbed-action-romantic-movie/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=318
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=318 to https://realnews7.xyz/2022/03/08/best-scifi-hollywood-movie-hindi-dubbed/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=314
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=314 to https://realnews7.xyz/2022/03/08/iron-man-2-hollywood-hindi-dubbed-movie-2022-full-movie-iron-man-2-full-movie-hindi-dubbed/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=310
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=310 to https://realnews7.xyz/2022/03/08/great-warrior-hollywood-movie-hindi-dubbed-hollywood-action-movies-in-hindi-hindi-action-movie/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=306
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=306 to https://realnews7.xyz/2022/03/08/best-hollywood-action-adventure-movie-2020-hindi-dubbed-new-action-movies-full-hd-dubbed-movie-2020/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=251
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=251 to https://realnews7.xyz/2022/03/08/jurassic-city-godzilla-vs-mechagodzilla-full-movie-latest-hollywood-hindi-dubbed-movie/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=253
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=253 to https://realnews7.xyz/2022/03/08/tdp-the-deadly-cop-hollywood-movie-hindi-dubbed-hollywood-action-movies-in-hindi-hindi-movie/
+23:36:39	Warning: 	Moved Permanently for https://realnews7.xyz/?p=254
+23:36:39	Warning: 	File has moved from https://realnews7.xyz/?p=254 to https://realnews7.xyz/2022/03/08/jurassic-shark-full-movie-hindi-dubbed-hollywood-movie-sherry-thurig-kimberly-wolfe/
+23:36:48	Error: 	"Error when decompressing" (-1) at link https://realnews7.xyz/2022/03/08/godzilla-vs-kong-full-movie-hollywood-full-movie-2022-full-movies-in-english-𝐅𝐮𝐥𝐥-𝐇𝐃-1080/ (from https://realnews7.xyz/page/2/)
+23:37:00	Error: 	"Error when decompressing" (-1) at link https://realnews7.xyz/2022/03/08/the-pain-hollywood-action-movie-english-🎬exclusive-english-thriller-movies￼/ (from https://realnews7.xyz/page/2/)
+23:37:59	Error: 	"Error when decompressing" (-1) at link https://realnews7.xyz/2022/03/08/jacky-chan-full-movie-2021-➤-full-mystery-movies-2021-➤-action-movies-2021-full-movie-english/ (from https://realnews7.xyz/page/3/)
+23:37:59	Error: 	"Error when decompressing" (-1) at link https://realnews7.xyz/2022/03/08/maleficent-2-full-movie-hollywood-full-movie-2020-full-movies-in-english-𝐅𝐮𝐥𝐥-𝐇𝐃-1080/ (from https://realnews7.xyz/page/3/)
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=255
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=255 to https://realnews7.xyz/2022/03/08/thunder-blockbuster-hit-hollywood-movie-hindi-dubbed-romantic-movie-full-hd-1080p/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=256
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=256 to https://realnews7.xyz/2022/03/08/truth-or-dare-action-hollywood-movie-in-hindi-tom-kane-liam-boyle-jack-gordon/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=257
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=257 to https://realnews7.xyz/2022/03/08/cinco-de-mayo-hollywood-movie-hindi-dubbed-hollywood-in-hindi-dubbed-full-action-movie-4k/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=258
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=258 to https://realnews7.xyz/2022/03/08/maneater-ll-hollywood-sci-fi-action-movie-ll-panipat-movies/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=259
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=259 to https://realnews7.xyz/2022/03/08/huntdown-ll-hollywood-mystery-thriller-movie-dubbed-in-hindi-ll-panipat-movies/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=261
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=261 to https://realnews7.xyz/2022/03/08/mystic-blade-hindi-dubbed-hollywood-action-full-movie-jawed-el-berni-don-ferguson/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=262
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=262 to https://realnews7.xyz/2022/03/08/snake-king-hollywood-movie-hindi-dubbed-hollywood-action-movies-in-hindi-hindi-action-movie/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=263
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=263 to https://realnews7.xyz/2022/03/08/hollywood-movie-in-hindi-_-sleeping-beauty-_-2004/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=264
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=264 to https://realnews7.xyz/2022/03/08/naked-angels-full-romantic-hindi-dubbed-hollywood-movie/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=247
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=247 to https://realnews7.xyz/2022/03/08/big-bad-bugs-full-hindi-movie-hollywood-action-movies-hindi-dubbed-action-movies/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=243
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=243 to https://realnews7.xyz/2022/03/08/super-warrior-hollywood-fantasy-full-movie-dubbed-in-hindi-hd-thai-action-adventure-film-2022/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=239
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=239 to https://realnews7.xyz/2022/03/08/american-dracula-hollywood-movie-hindi-dubbed-hollywood-movies-in-hindi-dubbed-full-action-hd/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=235
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=235 to https://realnews7.xyz/2022/03/08/the-hunting-place-hollywood-hindi-dubbed-action-adventures-movie/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=227
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=227 to https://realnews7.xyz/2022/03/08/jungle-disaster-hollywood-movie-in-hindi-dubbed/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=223
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=223 to https://realnews7.xyz/2022/03/08/red-spring-released-hollywood-hindi-dub-movie-action-hollywood-movie-romantic-hollywood/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=219
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=219 to https://realnews7.xyz/2022/03/08/uncharted-full-movie-in-hindi-dubbed-new-hollywood-movie-in-hindi-dubbed-hollywood-movie-hindi/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=215
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=215 to https://realnews7.xyz/2022/03/08/joe-of-eternity-full-hollywood-movie-in-hindi-dubbed/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=211
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=211 to https://realnews7.xyz/2022/03/08/hollywood-movie-hindi-dubbed-hollywood-action-romantic-movie-in-hindi-dubbed-2022/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=207
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=207 to https://realnews7.xyz/2022/03/08/break-adventure-movie-hollywood-movie-hindi-dubbed-vid-evolution-hollywood/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=203
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=203 to https://realnews7.xyz/2022/03/08/hell-party-hollywood-hindi-dubbed-action-adventures-movie/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=199
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=199 to https://realnews7.xyz/2022/03/08/faster-2-2022-latest-english-dubbed-movie-dwayne-johnson-action-full-hd-hollywood-movie/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=195
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=195 to https://realnews7.xyz/2022/03/08/spider-man-new-hollywood-movie-hindi-dubbed-2022/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=191
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=191 to https://realnews7.xyz/2022/03/08/the-predator-action-movie-full-2022-english-movie-hollywood-movie-full-action-movie-2022-full/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=187
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=187 to https://realnews7.xyz/2022/03/08/secret-war-hollywood-movie-hindi-dubbed-hollywood-action-movies-in-hindi-dubbed-full-hd/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=183
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=183 to https://realnews7.xyz/2022/03/08/hindi-dubbed-action-movie-hd-full-length-dubbed-movie-2019-hollywood-dubbed-adventures-movie/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=179
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=179 to https://realnews7.xyz/2022/03/08/new-hollywood-hindi-dubbed-movie-action-movie-2022-hollywood-new-movie-hindi-dubbed/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=175
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=175 to https://realnews7.xyz/2022/03/08/best-science-fiction-hollywood-movie-in-hindi-dubbing-full-action-full-adventure-sci-fi-hindi/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=170
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=170 to https://realnews7.xyz/2022/03/08/secret-weapon-hindi-dubbed-hollywood-action-full-movie-maxim-animatekaevgeniy-antropov/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=166
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=166 to https://realnews7.xyz/2022/03/08/new-cartoon-movie-in-hindi-2022-hollywood-animation-movies-hindi-cartoon-movie-in-hindi-dubbed/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=162
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=162 to https://realnews7.xyz/2022/03/08/vidyut-jammwal-jacqueline-fernandez-shahid-kapoor-newbollywood-movies-2022-full-hd-4k/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=158
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=158 to https://realnews7.xyz/2022/03/08/eyes-latest-released-hollywood-hindi-dubbed-movie-horror-hollywood-movie-blockbuster-hollywood/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=154
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=154 to https://realnews7.xyz/2022/03/08/best-action-movies-2022-hollywood-action-movie-2022-full-length-english-hd-2/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=150
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=150 to https://realnews7.xyz/2022/03/08/ghost-lady-2020-movie-full-hd-hollywood-hindi-dubbed-movies-2020-new-release-horror-movie-full/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=146
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=146 to https://realnews7.xyz/2022/03/08/the-danger-girls-bangali-dubbed-movie-hollywood-movie-in-bengali-dubbed-full-hd/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=142
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=142 to https://realnews7.xyz/2022/03/08/airplane-vs-volcano-2014-hindi-dubbed-hollywood-movie-hindi-dubbed-movie-hollywood-hindi-movie/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=138
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=138 to https://realnews7.xyz/2022/03/08/uss-seaviper-hindi-dubbed-full-movie-world-war-ii-base-movies-hollywood-action-movie-in-hindi/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=134
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=134 to https://realnews7.xyz/2022/03/08/best-action-movies-2022-hollywood-action-movie-2022-full-length-english-hd/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=130
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=130 to https://realnews7.xyz/2022/03/08/dead-drop-c-i-a-hollywood-hindi-dub-full-movie-action-movie-hollywood-in-hindi/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=126
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=126 to https://realnews7.xyz/2022/03/08/death-forest-hindi-dubbed-full-horror-movie-hd-hollywood-hindi-dubbed-movie/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=122
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=122 to https://realnews7.xyz/2022/03/08/blockbuster-hit-hollywood-movie-in-hindi-dubbed-hindi-dubbed-action-movie-full-hd-1080p/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=118
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=118 to https://realnews7.xyz/2022/03/08/black-notice-full-hollywood-action-movie-in-hindi-dubbed/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=114
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=114 to https://realnews7.xyz/2022/03/08/hollywood-movie-blade/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=110
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=110 to https://realnews7.xyz/2022/03/08/southern-attack-hollywood-movies-dubbed-in-hindi/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=105
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=105 to https://realnews7.xyz/2022/03/08/vin-diesel-blockbuster-action-movie-dubbed-in-hindi-the-scavngers-movie-explained-in-hindi-urdu-sci-fi-post-apocalyptic-thriller-epic/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=101
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=101 to https://realnews7.xyz/2022/03/08/dinosaurs-furious-hindi-dubbed-action-movie-hd-2021-hollywood-dubbed-adventures-movie/
+23:38:10	Warning: 	Moved Permanently for https://realnews7.xyz/?p=97
+23:38:10	Warning: 	File has moved from https://realnews7.xyz/?p=97 to https://realnews7.xyz/2022/03/08/the-volcano-treasure-hunt-hollywood-movie-in-hindi-dubbed-full-action-hd-2021full-movie/
+23:38:11	Warning: 	Moved Permanently for https://realnews7.xyz/?p=93
+23:38:11	Warning: 	File has moved from https://realnews7.xyz/?p=93 to https://realnews7.xyz/2022/03/08/deadman-spirit-hollywood-movie-hindi-dubbed-hollywood-horror-movies-in-hindi-dubbed-full-hd/
+23:38:11	Warning: 	Moved Permanently for https://realnews7.xyz/?p=88
+23:38:11	Warning: 	File has moved from https://realnews7.xyz/?p=88 to https://realnews7.xyz/2022/03/08/blockbuster-hollywood-full-length-hd-movie-hindi-dubbed/
+23:38:11	Warning: 	Moved Permanently for https://realnews7.xyz/?p=84
+23:38:11	Warning: 	File has moved from https://realnews7.xyz/?p=84 to https://realnews7.xyz/2022/03/08/2021-tamil-action-movie-tony-jaa-hollywood-movie-in-tamil-dubbed-english-movies-2021-full-movie/
+23:38:11	Warning: 	Moved Permanently for https://realnews7.xyz/?p=80
+23:38:11	Warning: 	File has moved from https://realnews7.xyz/?p=80 to https://realnews7.xyz/2022/03/08/battlefield-2021-hollywood-movie-full-hindi-dubbed-hollywood-action-movies-in-hindi-dubbed-full/
+23:38:11	Warning: 	Moved Permanently for https://realnews7.xyz/?p=76
+23:38:11	Warning: 	File has moved from https://realnews7.xyz/?p=76 to https://realnews7.xyz/2022/03/08/niper-legacy-movie-hindi-full/
+23:38:11	Warning: 	Moved Permanently for https://realnews7.xyz/?p=72
+23:38:11	Warning: 	File has moved from https://realnews7.xyz/?p=72 to https://realnews7.xyz/2022/03/08/dr-strange-full-movie-in-hindi-dubbed-new-hollywood-movies-in-hindi/
+23:38:11	Warning: 	Moved Permanently for https://realnews7.xyz/?p=68
+23:38:11	Warning: 	File has moved from https://realnews7.xyz/?p=68 to https://realnews7.xyz/2022/03/08/new-action-movie-hollywood-2021-the-matrix-resurrections-2021-full-movies-full-length-english-hd/
+23:38:11	Warning: 	Moved Permanently for https://realnews7.xyz/?p=43
+23:38:11	Warning: 	File has moved from https://realnews7.xyz/?p=43 to https://realnews7.xyz/2022/03/08/the-amazing-spider-man-2-hindi-dubbed-spidey-movies/
+23:38:11	Warning: 	Moved Permanently for https://realnews7.xyz/?p=40
+23:38:11	Warning: 	File has moved from https://realnews7.xyz/?p=40 to https://realnews7.xyz/2022/03/08/mermaid-returns-2021-new-hollywood-movie-in-hindi-dubbed/
+23:38:11	Warning: 	Moved Permanently for https://realnews7.xyz/?p=36
+23:38:11	Warning: 	File has moved from https://realnews7.xyz/?p=36 to https://realnews7.xyz/2022/03/08/take-back-jason-statham-action-movies-2021-full-movie-english/
+23:38:11	Warning: 	Moved Permanently for https://realnews7.xyz/?p=34
+23:38:11	Warning: 	File has moved from https://realnews7.xyz/?p=34 to https://realnews7.xyz/2022/03/08/hacker-new-hollywood-movie/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 41 seconds : 750 links scanned, 645 files written (10192069 bytes overall) [6186864 bytes received at 27994 bytes/sec], 6160539 bytes transferred using HTTP compression in 342 files, ratio 23%, 35.7 requests per connection
+(8 errors, 192 warnings, 0 messages)
